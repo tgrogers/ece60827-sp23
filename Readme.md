@@ -2,7 +2,7 @@
 
 ## Professor: Tim Rogers <br> TA: Christin Bose
 
-## Due on Feb 6
+## Due on Saturday, January 28 at 11:59 PM ET (1/29 at 04:59 UTC)
 ## Introduction
 
 The purpose of this lab is to familiarize yourself with CUDA programming and the fundamental methodology for parallelizing a traditional CPU-based algorithm for GPU acceleration.  
